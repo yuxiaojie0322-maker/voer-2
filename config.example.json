@@ -1,0 +1,15 @@
+{
+  "email": "your_email@example.com",
+  "password": "your_password",
+  "server_name": null,
+  "proxy": null,
+  "core_token": "ghp_your_github_personal_access_token_here",
+  "core_repo": "yuxiaojie0322-maker/voer-core",
+  "notify": {
+    "tg_bot_token": "",
+    "tg_chat_id": "",
+    "serverchan_key": "",
+    "pushplus_token": "",
+    "webhook_url": ""
+  }
+}
